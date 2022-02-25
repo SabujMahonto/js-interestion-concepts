@@ -43,7 +43,12 @@ Non-Primitive data type
 1.কোন  একটা ভেরিয়েবলের value assigned না করলে undefined হবে।
 2.কোন  একটা function  এ কোন কিছু return না করলে undefined হবে।
 
-৫. double equal (==) আর triple equal (===) এই দুইটার মধ্যে ডিফারেন্স কি। 
+৫. double equal (==) আর triple equal (===) এই দুইটার মধ্যে 
+ডিফারেন্স কি। 
+
+*double equal => কোন টাইপ চেক করে না । শুধু দুইটার মান চেক করে ।
+
+*triple equal => মান ও টাইপ দুইটার চেক করবে । 
 
 ৬. implicit conversion কি জিনিস একটা কখন হয়। 
 
