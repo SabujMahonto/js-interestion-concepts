@@ -15,6 +15,23 @@ primitive data type
 Non-Primitive data type 
 1.Object
 
+## .truthy value or falsy value ?
+ **truthy 
+    1.true, or any number (positive or negative ) truthy;
+    2.any string including single white space ,
+    3.string এর ভিতর যদি '০' থাকে তাহলে truthy;
+    4.আবার, string এর ভিতর যদি 'false' হয় তাহলেও truthy.
+    5.[] empty array truthy
+    6.{} empty Object truthy
+
+    **falsy
+        1.false ,
+        2. 0 , 
+        3.empty string , 
+        4.undefined, 
+        5.null, 
+        6.NaN;
+
 ২. জাভাস্ক্রিপ্ট ফাংশন, বা array কি টাইপের জিনিস ? 
 
 ৩. জাভাস্ক্রিপ্ট এ array যদি অবজেক্ট হয় তাহলে কিভাবে চেক করবে কোন একটা ভেরিয়েবল একটা array নাকি array না?
