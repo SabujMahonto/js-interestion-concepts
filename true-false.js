@@ -1,5 +1,5 @@
 
-const x = false;
+const x = 0;
 if(x){
     console.log('variable is truthy');
 }else{

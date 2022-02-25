@@ -34,9 +34,14 @@ Non-Primitive data type
 
 ২. জাভাস্ক্রিপ্ট ফাংশন, বা array কি টাইপের জিনিস ? 
 
+
 ৩. জাভাস্ক্রিপ্ট এ array যদি অবজেক্ট হয় তাহলে কিভাবে চেক করবে কোন একটা ভেরিয়েবল একটা array নাকি array না?
 
 ৪. এর মধ্যে undefined আর null এর মধ্যে ডিফারেন্স কি। 
+
+** undefined 
+1.কোন  একটা ভেরিয়েবলের value assigned না করলে undefined হবে।
+2.কোন  একটা function  এ কোন কিছু return না করলে undefined হবে।
 
 ৫. double equal (==) আর triple equal (===) এই দুইটার মধ্যে ডিফারেন্স কি। 
 
